@@ -1,23 +1,18 @@
-/* img{
+img{
   width: 250px;
-  padding: 15px;
-  padding: 80px 30px; */
-  /* padding: 30px 100px 5px  1px;
-  padding: 30px 100px  20px 1px;
-  background-color: aqua;
-} */
- .box{
-  height: 100vh;
+  height: 300px;
+}
+ /* .box{
+  height: 100vh; */
   /* background-image: url("https://i1-e.pinimg.com/736x/5c/52/66/5c526601260433877708774102805d30.jpg");
   background-position: center;
   background-repeat: no-repeat; */
 
   /*style 2 : we use background */
-  background: url("https://i1-e.pinimg.com/736x/5c/52/66/5c526601260433877708774102805d30.jpg") no-repeat left top ;
+  /* background: url("https://i1-e.pinimg.com/736x/5c/52/66/5c526601260433877708774102805d30.jpg") no-repeat left top ;
   background-size: cover;
-  color: azure;
-  
-
-  }
+  color: azure; 
+ 
+ } */
   
  
